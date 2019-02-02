@@ -1,4 +1,4 @@
-# Some WEBSITE downloaders using selenium
+# Some WEBSITE downloaders (some of them are adult sites) using selenium
 # one can change chrome webdriver to phantomJs webdriver.
 all codes are done by myself.
 Now, I only have on web sraper for this. I will generate it more in the future, Basicly, I use selenium and beautiful soup in python。
